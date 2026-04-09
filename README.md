@@ -34,19 +34,18 @@ tools-repo/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tools-repo.git
+https://github.com/pankajdotdev/tools.git
 ```
 
 2. Navigate to the tool you want to use:
 
 ```bash
-cd tools-repo/file-tools
-```
+cd tools```
 
 3. Run the script:
 
 ```bash
-python script_name.py
+python script_name.py - according to you need
 ```
 
 ---
